@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4d398f0d2bb704d1eaaff218f24a5846
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jump: {fileID: 8300000, guid: b3d4173c8b24e4b609cafe205a5d29a9, type: 3}
+  - death: {instanceID: 0}
+  - trinketOrCheckpoint: {instanceID: 0}
+  - gameManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
